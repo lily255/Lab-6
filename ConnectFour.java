@@ -77,6 +77,7 @@ public class ConnectFour {
         System.out.println();
 
     }
+    // github comment
 
     public static void initializeBoard(char[][] array) {
         for (int rowCount = 0; rowCount < array.length; rowCount++) {
